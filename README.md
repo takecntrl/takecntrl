@@ -21,7 +21,15 @@
   - [TryHackMe](https://tryhackme.com/p/takecntrl)
 
 ---
+---
 
+### Lab Stack
+- 🔐 **Pentest OS:** Kali Linux (VMware Pro)
+- 🧱 **Target Systems:** RHEL 9 jumpbox, Windows 10, vulnerable web apps
+- 🧪 **Testing Tools:** nmap, Burp Suite, Metasploit, Wireshark, Hydra
+- ⚙️ **Monitoring:** NetFlow, Kibana, tcpdump
+- 🧰 **Scripts & Automation:** Bash, Python (WIP)
+  
 ## Skills
 - **Cybersecurity:** Red team support, vulnerability assessment, threat hunting, DPI
 - **Networking:** OSPF, BGP, EIGRP, ACLs, firewalls (Cisco ASA, Meraki, FortiGate)
