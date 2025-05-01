@@ -19,3 +19,10 @@ Hey, I'm Tsukikage Kuroya — a DoD-cleared Network Engineer with a cybersecurit
 
 ## Motto
 > "I'm not where I want to be — but I’m coming to take control."
+<p align="center">
+  <img src="https://img.shields.io/badge/Alias-Tsukikage%20Kuroya-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security%20Clearance-SECRET-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cert-CySA%2B-1B1F23?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTB-takecntrl-00AF9B?style=for-the-badge&logo=HackTheBox&logoColor=white" />
+  <img src="https://img.shields.io/badge/THM-takecntrl-2C2C2C?style=for-the-badge&logo=tryhackme&logoColor=red" />
+</p>
