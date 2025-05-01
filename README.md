@@ -31,4 +31,8 @@
 ---
 
 ## Motto
-> **Always Learning. Always Hunting. Here to Take Control.**
+> **Always Learning. Always Hunting. Here to Take Control.**---
+
+### Signature
+> **Tsukikage Kuroya**  
+> *Always Learning. Always Hunting. Here to Take Control.*
