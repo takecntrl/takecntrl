@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/THM-takecntrl-2C2C2C?style=for-the-badge&logo=tryhackme&logoColor=red" />
 </p>
 
-> 🥷 Tsukikage Kuroya — moonlit shadow on the red team path.  
+> 🥷 Sage  
 > **Always Learning. Always Hunting. Here to Take Control.**
 
 ---
@@ -42,16 +42,6 @@
 > **Always Learning. Always Hunting. Here to Take Control.**---
 
 ### Signature
-> **Tsukikage Kuroya**  
+> **Sage**  
 > *Always Learning. Always Hunting. Here to Take Control.*
 
-   _______        _        _______  _______  _______  _______ 
-  (  ____ \      ( \      (  ____ \(  ___  )(  ____ \(  ____ )
-  | (    \/      | (      | (    \/| (   ) || (    \/| (    )|
-  | (__     ___  | |      | (__    | (___) || (__    | (____)|
-  |  __)   (___) | |      |  __)   |  ___  ||  __)   |     __)
-  | (             |      | (      | (   ) || (      | (\ (   
-  | )      ___   (____/\ | (____/\| )   ( || (____/\| ) \ \__
-  |/      (___)  \_____/ (_______/|/     \|(_______/|/   \__/
-                                                            
-                The Cyber Protocol // Moonlit Shadow
